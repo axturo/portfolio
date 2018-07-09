@@ -1,0 +1,18 @@
+h1{ 
+font-size: 40px;
+color: orange;
+background-image:url(img/tumblr_oahxgwu6m11vxpileo1_5001.gif);
+background-repeat: no-repeat;
+background-size: cover
+}
+h1{ 
+text-align: center;
+border: 1px solid oranage;
+
+
+}
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+body{
+   font-family: 'Open Sans',serif;
+}
